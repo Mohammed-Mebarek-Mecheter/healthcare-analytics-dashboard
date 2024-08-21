@@ -1,0 +1,52 @@
+/* assets/style.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F2F3F4;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+}
+
+.card {
+    border-radius: 0.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    background-color: #FFFFFF;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #2874A6;
+}
+
+.bi {
+    font-size: 2rem;
+    color: #5DADE2;
+}
+
+.chart-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2874A6;
+    margin-bottom: 1rem;
+}
+
+.table {
+    font-size: 0.9rem;
+}
+
+.table thead th {
+    font-weight: bold;
+    background-color: #D5DBDB;
+    color: #2874A6;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #AED6F1;
+}
